@@ -1,2 +1,2 @@
-aokigahara-parent
+aokigahara-commons
 =================
